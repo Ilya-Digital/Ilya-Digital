@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Ilya-Digital/Ilya-Digital/blob/main/Header.svg"></img></p>
+<p align="center"><img src="https://github.com/Ilya-Digital/Ilya-Digital/blob/main/Header.jpg"></img></p>
 
 # <p style="color: red" align="center">About Me</p>
 
