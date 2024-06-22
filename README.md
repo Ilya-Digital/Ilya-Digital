@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Ilya-Digital/Ilya-Digital/blob/main/Header.jpg"></img></p>
+<p align="center"><img src="https://github.com/Ilya-Digital/Ilya-Digital/blob/main/Freelance_banner.jpg"></img></p>
 
 ### <p align="center">Обо мне</p>
 
