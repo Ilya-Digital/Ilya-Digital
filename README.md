@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Ilya-Digital/Ilya-Digital/blob/main/Freelance_banner.jpg"></img></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=20343B&center=true&random=false&width=1000&height=100&lines=Илья Иванов" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=400&color=416D7D&center=true&random=false&width=1000&height=100&lines=Илья Иванов" alt="Typing SVG" /></a>
 
 Здравствуйте, меня зовут `Илья Иванов` и я разрабатываю Telegram ботов на языке программирования Python.
 
@@ -26,7 +26,7 @@
 - *Отзывчивость и вежливость*
 - *Стремлюсь к высокому качеству*
 
-⏰ График работы:
+## ⏰ График работы:
 
 *8:00 - 21:00* *по МСК*
 
