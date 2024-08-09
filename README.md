@@ -1,8 +1,8 @@
 <p align="center"><img src="https://github.com/Ilya-Digital/Ilya-Digital/blob/main/Banner_Dev.jpg"></img></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=400&color=D0524B&center=true&random=false&width=1000&height=100&lines=Илья Иванов" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=400&color=D0524B&center=true&random=false&width=1000&height=100&lines=Ilya Developer" alt="Ilya Developer" /></a>
 
-Здравствуйте, меня зовут `Илья Иванов` и я разрабатываю Telegram ботов на языке программирования Python.
+Здравствуйте, меня зовут `Илья` и я разрабатываю Telegram ботов на языке программирования Python.
 
 ## 💡Технологии, которые я использую:
 
