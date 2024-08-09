@@ -25,10 +25,6 @@
 - *Отзывчивость и вежливость*
 - *Стремлюсь к высокому качеству*
 
-## ⏰ График работы:
-
-*8:00 - 21:00* *по МСК*
-
 
 <p align="center">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilya-Digital&theme=tokyonight">
