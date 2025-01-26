@@ -2,23 +2,28 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=400&color=D0524B&center=true&random=false&width=1000&height=100&lines=Ilya Developer" alt="Ilya Developer" /></a>
 
-Здравствуйте, меня зовут `Илья` и я занимаюсь разработкой Telegram ботов, парсеров и скриптов. Я стремлюсь к постоянному развитию и профессиональному росту, что мотивирует меня следить за новыми тенденциями в индустрии и внедрять инновационные подходы в своей работе.
-## 💡Технологии, которые я использую:
+Hello, my name is Ilya and I am developing Telegram bots, parsers and scripts. I strive for continuous development and professional growth, which motivates me to follow new trends in the industry and implement innovative approaches in my work.
+
+## 💡The technologies I use:
 
 <div>
   <img src="https://skillicons.dev/icons?i=py,html,css,git,postgres,pycharm,sqlite,vscode,bash,bots,github,powershell,stackoverflow,">
 </div>
 
-## ⌨️ Мои преимущества:
+## ⌨️ My advantages:
 
-- *Доступная цена*
-- *Серьёзно подхожу к выполнению задачи*
-- *Стараюсь выполнить задачу в заданный срок*
-- *Отзывчивость и вежливость*
-- *Стремлюсь к высокому качеству*
+- *Affordable price*
+- * I am seriously approaching the task*
+- *I try to complete the task within the specified time*
+- *Responsiveness and courtesy*
+- *I strive for high quality*
 
+## 📊 My stats:
 
 <p align="center">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilya-Digital&theme=tokyonight">
 </p>
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=500&color=512A96&center=true&random=false&width=1200&height=120&lines=Repositories" alt="↓ Repositories ↓" /></a>
