@@ -13,7 +13,7 @@ Hello, my name is Ilya and I am developing Telegram bots, parsers and scripts. I
 ## ⌨️ My advantages:
 
 - *Affordable price*
-- * I am seriously approaching the task*
+- *I am seriously approaching the task*
 - *I try to complete the task within the specified time*
 - *Responsiveness and courtesy*
 - *I strive for high quality*
