@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Ilya-Digital/Ilya-Digital/blob/main/Banner_Dev.jpg"></img></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=500&color=FFFFFF&center=true&random=false&width=1200&height=120&lines=Ilya Ivanov" alt="Ilya Ivanov" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=500&color=FFFFFF&center=true&random=false&width=1200&height=120&lines=Ilya_ᅠIvanov" alt="Ilyaᅠ_Ivanov" /></a>
 
 Hello, my name is Ilya and I am developing Telegram bots, parsers and scripts. I strive for continuous development and professional growth, which motivates me to follow new trends in the industry and implement innovative approaches in my work.
 
