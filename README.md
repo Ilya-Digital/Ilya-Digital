@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Ilya-Digital/Ilya-Digital/blob/main/Banner_Dev.jpg"></img></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=400&color=D0524B&center=true&random=false&width=1000&height=100&lines=Ilya Developer" alt="Ilya Developer" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=500&color=FFFFFF&center=true&random=false&width=1200&height=120&lines=Ilya Ivanov" alt="Ilya Ivanov" /></a>
 
 Hello, my name is Ilya and I am developing Telegram bots, parsers and scripts. I strive for continuous development and professional growth, which motivates me to follow new trends in the industry and implement innovative approaches in my work.
 
@@ -30,4 +30,4 @@ Hello, my name is Ilya and I am developing Telegram bots, parsers and scripts. I
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=500&color=512A96&center=true&random=false&width=1200&height=120&lines=Repositories" alt="↓ Repositories ↓" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=500&color=FFFFFF&center=true&random=false&width=1200&height=120&lines=Repositories" alt="Repositories" /></a>
