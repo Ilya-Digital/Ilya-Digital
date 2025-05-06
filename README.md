@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Ilya-Digital/Ilya-Digital/blob/main/Banner_Dev.jpg"></img></p>
+<p align="center"><img src="https://github.com/Ilya-Digital/Ilya-Digital/blob/main/Black_github_banner.jpg"></img></p>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=500&color=FFFFFF&center=true&random=false&width=1200&height=120&lines=Welcome!" alt="Welcome!" /></a>
