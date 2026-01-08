@@ -1,3 +1,4 @@
+![gif straight up ripped from pinterest](https://i.pinimg.com/originals/84/9c/9b/849c9bd9d2a677345122f5b7b7664b8f.gif)
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=500&color=FFFFFF&center=true&random=false&width=1200&height=120&lines=Welcome!" alt="Welcome!" /></a>
@@ -27,7 +28,3 @@ Hello, my name is Ilya and I am developing Telegram bots, parsers and scripts. I
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilya-Digital&theme=tokyonight">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ilya-Digital&theme=tokyonight">
 </p>
-
-![gif straight up ripped from pinterest](https://i.pinimg.com/originals/84/9c/9b/849c9bd9d2a677345122f5b7b7664b8f.gif)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=500&color=FFFFFF&center=true&random=false&width=1200&height=120&lines=Repositories" alt="Repositories" /></a>
